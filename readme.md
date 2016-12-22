@@ -10,9 +10,9 @@
 
 ## Links
  
-[https://select2.github.io/](Select2)
+[Select2](https://select2.github.io/)
  
-[http://materializecss.com/](materialize)
+[materialize](http://materializecss.com/)
 
 ## Licence
 
